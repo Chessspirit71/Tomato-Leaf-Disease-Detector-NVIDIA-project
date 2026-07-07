@@ -1,2 +1,2 @@
 # Tomato-Leaf-Disease-Detector-NVIDIA-project
-This is my Tomato Leaf Disease Detector NVIDIA project. It does a scan on a video that detects if the tomato leaf is encountering a specific type of disease by scanning the tomato plants leaf condition.
+This is my AI-Powered Tomato Leaf Disease Detection System. The system can detect the condition of the tomato leaves in real time and can identify whether a tomato leaf is healthy or affect by a specific type of disease.
