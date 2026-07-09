@@ -1,6 +1,6 @@
 AI-Powered Tomato Leaf Disease Detection System
 
-This project showcases an AI system that can detect the condition of tomato leaves in real time. The AI can identify whether a tomato leaf is healthy or affected by a specific type of disease.
+This project showcases an AI system that can detect the condition of tomato leaves based on images and pictures. The AI can identify whether a tomato leaf is healthy or affected by a specific type of disease.
 
 The system uses Resnet as its primary object detection model. The Ai can accurately recognize different leaf condition base on the images provided on a tomato leaf
 
